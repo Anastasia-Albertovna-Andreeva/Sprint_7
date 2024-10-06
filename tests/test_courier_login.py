@@ -3,7 +3,7 @@ import allure
 import pytest
 from data import Data
 from urls import Urls
-from helpers import create_random_login, create_random_password, create_random_firstname
+from helpers import create_random_login, create_random_password
 
 
 class TestCourierLogin:
